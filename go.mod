@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/adrg/xdg v0.4.0
-	github.com/charmbracelet/log v0.2.1
+	github.com/charmbracelet/log v0.2.2
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/flamego/flamego v1.9.1
 	github.com/flamego/session v1.3.0
@@ -12,12 +12,12 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/puzpuzpuz/xsync/v2 v2.4.0
 	github.com/stretchr/testify v1.8.3
-	github.com/urfave/cli/v2 v2.25.3
+	github.com/urfave/cli/v2 v2.25.5
 	golang.org/x/crypto v0.9.0
 	golang.org/x/oauth2 v0.8.0
 	gopkg.in/yaml.v3 v3.0.1
-	gorm.io/driver/postgres v1.5.0
-	gorm.io/gorm v1.25.0
+	gorm.io/driver/postgres v1.5.2
+	gorm.io/gorm v1.25.1
 )
 
 require (
